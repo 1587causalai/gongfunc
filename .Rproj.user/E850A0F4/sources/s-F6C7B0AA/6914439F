@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1506817349511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "22|21|24|0|\n",
+    "hash" : "0",
+    "id" : "6914439F",
+    "lastKnownWriteTime" : 1506918606,
+    "last_content_update" : 1506918606153,
+    "path" : "~/E/5-project-age/gongfunc/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+        "cursorPosition" : "24,1",
+        "scrollLine" : "16"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

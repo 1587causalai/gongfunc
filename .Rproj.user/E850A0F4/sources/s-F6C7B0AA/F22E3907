@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1506817538914.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F22E3907",
+    "lastKnownWriteTime" : 1506817663,
+    "last_content_update" : 1506817663534,
+    "path" : "~/E/5-project-age/gongfunc/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
